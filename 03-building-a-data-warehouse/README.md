@@ -1,4 +1,5 @@
-03-Building a Data Warehouse-2
+03-Building a Data Warehouse
+
 folder นี้ประกอบด้วย 1 folder 4 file
 etl.py
 github_events_01.json
